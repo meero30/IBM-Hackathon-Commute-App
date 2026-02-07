@@ -138,6 +138,7 @@ Place official transport PDFs inside:
 
 The API automatically reads the first 10 pages of each PDF and feeds it
 to the LLM as verification data. Although none of the PDFS I pasted were 10 pages long.
+All of the PDFs were acquired in the LTFRB website: https://ltfrb.gov.ph/
 
 
 
